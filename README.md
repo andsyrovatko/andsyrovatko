@@ -19,6 +19,14 @@ With over **13 years of experience** in the ISP industry, I focus on building re
 - **DevOps:** Docker, Proxmox (PVE/PBS), Git/GitLab, Ansible.
 - **Languages:** Bash (Expert), Python & C++ (Deepening), SQL (PostgreSQL).
 
+---
+
+### 🛠 Key Projects & Toolsets
+* **[S4K Admin Toolbox](https://github.com/andsyrovatko/s4k-admin-toolbox)** — My primary collection of battle-tested automation scripts (Networking, Backup, System Management).
+* **[Modbus Relay Controller](https://github.com/andsyrovatko/s4k-modbus-relay-controller)** — Dedicated Python tool for industrial automation and hardware control.
+
+---
+
 ### 🌍 Languages
 - **Ukrainian & Russian:** Native/C2.
 - **English:** B1/B2 (Professional Working Proficiency).
