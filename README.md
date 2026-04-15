@@ -24,7 +24,7 @@ With over **13 years of experience** in the ISP industry, I focus on building re
 ### 🛠 Key Projects & Toolsets
 * **[S4K Admin Toolbox](https://github.com/andsyrovatko/s4k-admin-toolbox)** — My primary collection of battle-tested automation scripts (Networking, Backup, System Management).
 * **[Modbus Relay Controller](https://github.com/andsyrovatko/s4k-modbus-relay-controller)** — Dedicated Python tool for industrial automation and hardware control.
-* **[PVE Rsync Backup Pro (Bash)](https://github.com/andsyrovatko/s4k-pve-rsync-backup)** — High-precision backup automation for Proxmox VE.
+* **[PVE Rsync Backup Pro (Bash)](https://github.com/andsyrovatko/s4k-pve-rsync-backup)** — High-precision backup automation for Proxmox VE. Uses real-time log parsing to identify snapshots, handles rsync transfers with atomic file lists, and includes safety-first remote cleanup logi
 
 ---
 
